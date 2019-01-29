@@ -13,10 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Jarrod Davis
+name: Jarrod Davis
 email: developer@jarrodldavis.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Full stack web engineer with a passion for user experience.
+title: >-
+  Full stack web engineer with a passion for user experience
+repository: jarrodldavis/jarrodldavis.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -32,16 +33,56 @@ social:
     - https://www.twitter.com/ahylianhuman
     - https://keybase.io/jarrodldavis
 
-# Minima
+# Modern Resume Theme
+about_profile_image: assets/me.jpg
+about_content: |
+  Hey! :wave: I'm Jarrod Davis, a full stack developer who enjoys building great
+  experiences and nifty tools with software, especially web technologies.
+
+  I've worked with numerous frameworks and libraries (on both the frontend and
+  backend) and I'm always eager to learn new things. Here's a sampling of some
+  of the technologies I've worked with:
+
+  - A "traditional" Microsoft web stack ([C#][csharp], [.NET Framework][netfx],
+    [ASP.NET MVC][aspnet])
+  - The modern Microsoft web stack ([C#][csharp], [.NET Core][dotnet-core],
+    [ASP.NET Core][aspnet-core], [Entity Framework Core][ef-core])
+  - Component-based reactive JavaScript frameworks (e.g. [Vue.js][vuejs])
+  - Modern frontend build setups ([Babel][babeljs] and [webpack])
+  - Several CSS preprocessors, including [Stylus][stylus], [Less][less], and
+    [Sass/SCSS][sass]
+  - [MySQL][mysql], including hand-writing queries and managing schema updates
+
+  Below you can see more details of my professional and educational experience.
+  You can also [download my resume as a PDF][resume]. If you have an
+  interesting project to work on, don't hesitate to [get in touch][email].
+
+  [csharp]:       https://docs.microsoft.com/en-us/dotnet/csharp/
+  [netfx]:        https://docs.microsoft.com/en-us/dotnet/framework/
+  [aspnet]:       https://github.com/aspnet/AspNetWebStack
+  [dotnet-core]:  https://github.com/dotnet/core
+  [aspnet-core]:  https://github.com/aspnet/AspNetCore
+  [ef-core]:      https://github.com/aspnet/EntityFrameworkCore
+  [vuejs]:        https://vuejs.org
+  [babeljs]:      https://babeljs.io
+  [webpack]:      https://webpack.js.org
+  [stylus]:       http://stylus-lang.com/
+  [less]:         http://lesscss.org/
+  [sass]:         https://sass-lang.com/
+  [mysql]:        https://www.mysql.com
+  [resume]:       /jarrod-davis-resume.pdf
+  [email]:        mailto:developer@jarrodldavis.com?subject=I%20have%20a%20project%20to%20work%20on!
+
 twitter_username: ahylianhuman
 github_username:  jarrodldavis
 linkedin_username:  jarrodldavis
 
 # Build settings
 markdown: kramdown
-theme: minima
+remote_theme: jarrodldavis/modern-resume-theme@_pending
 plugins:
   - jekyll-feed
+  - jemoji
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

@@ -1,0 +1,118 @@
+- company: Axxess Technology Solutions
+  link: https://axxess.com
+  jobs:
+    - title: Senior Web Engineer
+      dates: July 2016 - June 2018
+    - title: Web Engineer
+      dates: March 2015 - July 2016
+  quote: >
+    HomeCare SaaS product for home care and private duty agencies
+  description: |
+    ##### Responsiblities
+    - Fix bugs in and make enhancements to the full stack (frontend, backend,
+      and database schema/queries)
+    - Introduce new features into an existing enterprise-level codebase
+    - Participate in peer code reviews and quality assurance (QA) testing
+    - Assist in the optimization of engineering workflows to improve
+      development efficiency, including customization of MSBuild project files
+    - Define and distribute a Docker Compose project for the backend’s data
+      service dependencies (including database and cache servers) for a
+      consistent and always-available local development environment that is
+      less reliant on shared development servers
+    - Spearhead introduction of new technologies for major new features
+    - Coordinate with mobile engineers to design and develop a new API for
+      retrieving and updating existing application data critical to the rollout
+      of a new mobile application
+    - Transition to the technical team lead role and participate with
+      project/product management in the refinement and prioritization of bug
+      fixes, enhancements, and major features
+    - Manage deployments for multiple environments (including Production)
+      continuous integration builds (using TeamCity), application deployments
+      (using Octopus Deploy), and database updates
+    - Integrate the product with multiple systems, both internal and external
+      to the company
+    - Onboard and mentor new and existing team members
+    - Write documentation for project setup (onboarding) and development
+      methodologies (version control strategies and deployment workflows)
+
+    ##### Core Languages
+    - C#
+    - HTML and CSS
+    - JavaScript
+    - SQL (MySQL)
+
+    ##### Development Tools
+    - git (version control)
+    - Visual Studio 2013 and 2017
+    - ReSharper
+    - MSBuild
+    - NuGet Package Manager
+    - Docker and Docker Compose
+    - npm and Yarn
+    - webpack
+    - Babel (modern JavaScript transpiler)
+    - Sass (CSS preprocessor)
+
+    ##### Frameworks and Libraries
+    - .NET Framework
+    - ASP.NET MVC 5
+    - WCF (Windows Communication Foundation)
+    - Hangfire (background job execution)
+    - .NET Core
+    - ASP.NET Core
+    - Entity Framework Core
+    - jQuery
+    - jQuery UI
+    - Knockout.js
+    - Vue.js
+
+    ##### Additional Technologies
+    - MongoDB
+    - RabbitMQ
+    - Couchbase
+    - Redis 
+
+- company: AtTask/Workfront
+  link: https://www.workfront.com
+  job_title: Frontend Developer Intern
+  dates: January 2015 - March 2015
+  quote: >
+    Internal tool for developers
+  description: |
+    ##### Responsibilities
+    - Details about this project are not available due to an NDA
+
+    ##### Technologies
+    - Python
+    - HTML and CSS
+    - JavaScript
+    - MySQL
+    - git
+    - PyCharm (IDE)
+    - LESS
+    - Django
+    - Angular.js
+
+- company: Allegiance/MaritzCX
+  link: https://www.maritzcx.com
+  job_title: Developer Intern (UI/UX Team)
+  dates: September 2014 - December 2014
+  quote: >
+    Multiple customer-facing web-based services for VoC (Voice of Customer) and
+    EFM (Enterprise Feedback Management)
+  description: |
+    ##### Responsibilites
+    - Assist in the selection of the CSS preprocessor to include in an existing development environment
+    - Integrate the Stylus CSS preprocessor into the existing build system
+    - Improve functionality and fix bugs of several JavaScript UI components
+    - Create new jQuery UI widgets, including compositions of other jQuery UI widgets
+
+    ##### Technologies
+    - HTML and CSS
+    - JavaScript
+    - Perforce (version control)
+    - Visual Studio 2010
+    - Stylus
+    - Underscore.js
+    - jQuery
+    - jQuery UI
