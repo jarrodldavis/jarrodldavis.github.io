@@ -79,7 +79,7 @@ linkedin_username:  jarrodldavis
 
 # Build settings
 markdown: kramdown
-remote_theme: jarrodldavis/modern-resume-theme@_pending
+remote_theme: sproogen/modern-resume-theme
 plugins:
   - jekyll-feed
   - jemoji
