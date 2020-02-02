@@ -31,54 +31,74 @@ social:
     - https://github.com/jarrodldavis
     - https://www.linkedin.com/in/jarrodldavis
     - https://www.twitter.com/ahylianhuman
-    - https://keybase.io/jarrodldavis
+    - https://www.upwork.com/fl/jarroddavis
 
 # Modern Resume Theme
 about_profile_image: assets/me.jpg
 about_content: |
-  Hey! :wave: I'm Jarrod Davis, a full stack developer who enjoys building great
-  experiences and nifty tools with software, especially web technologies.
+  Hey! I'm Jarrod Davis, a full stack developer and software engineer who
+  enjoys building delightful experiences and helpful tools.
 
-  I've worked with numerous frameworks and libraries (on both the frontend and
-  backend) and I'm always eager to learn new things. Here's a sampling of some
-  of the technologies I've worked with:
+  I've worked with numerous languages, frameworks, and libraries, with a
+  significant focus on web applications (frontend and backend) but also
+  including command-line scripts and utilities.
+
+  Here's a sampling of the technologies I've worked with:
 
   - A "traditional" Microsoft web stack ([C#][csharp], [.NET Framework][netfx],
     [ASP.NET MVC][aspnet])
   - The modern Microsoft web stack ([C#][csharp], [.NET Core][dotnet-core],
     [ASP.NET Core][aspnet-core], [Entity Framework Core][ef-core])
-  - Component-based reactive JavaScript frameworks (e.g. [Vue.js][vuejs])
+  - [Node.js][nodejs] as a web application backend (including
+    [Express.js][expressjs] and [Next.js][nextjs])
+  - Component-based JavaScript frameworks (including [Vue.js][vuejs],
+    [Angular][angular], and [React.js][reactjs])
   - Modern frontend build setups ([Babel][babeljs] and [webpack])
   - Several CSS preprocessors, including [Stylus][stylus], [Less][less], and
     [Sass/SCSS][sass]
-  - [MySQL][mysql], including hand-writing queries and managing schema updates
+  - [MySQL][mysql] query authoring and schema update management
+  - [Node.js][nodejs], [Ruby], and [Python] for command-line scripts and utilities
 
   Below you can see more details of my professional and educational experience.
   You can also [download my resume as a PDF][resume]. If you have an
-  interesting project to work on, don't hesitate to [get in touch][email].
+  interesting project to work on, [hire me on Upwork][upwork].
 
-  [csharp]:       https://docs.microsoft.com/en-us/dotnet/csharp/
-  [netfx]:        https://docs.microsoft.com/en-us/dotnet/framework/
+  [csharp]:       https://docs.microsoft.com/en-us/dotnet/csharp
+  [netfx]:        https://docs.microsoft.com/en-us/dotnet/framework
   [aspnet]:       https://github.com/aspnet/AspNetWebStack
   [dotnet-core]:  https://github.com/dotnet/core
   [aspnet-core]:  https://github.com/aspnet/AspNetCore
   [ef-core]:      https://github.com/aspnet/EntityFrameworkCore
+  [nodejs]:       https://nodejs.org
+  [expressjs]:    https://expressjs.com
+  [nextjs]:       https://nextjs.com
   [vuejs]:        https://vuejs.org
+  [reactjs]:      https://reactjs.org
+  [angular]:      https://angular.io
   [babeljs]:      https://babeljs.io
   [webpack]:      https://webpack.js.org
-  [stylus]:       http://stylus-lang.com/
-  [less]:         http://lesscss.org/
-  [sass]:         https://sass-lang.com/
+  [stylus]:       http://stylus-lang.com
+  [less]:         http://lesscss.org
+  [sass]:         https://sass-lang.com
   [mysql]:        https://www.mysql.com
+  [ruby]:         https://www.ruby-lang.org
+  [python]:       https://python.org
   [resume]:       /jarrod-davis-resume.pdf
-  [email]:        mailto:developer@jarrodldavis.com?subject=I%20have%20a%20project%20to%20work%20on!
+  [upwork]:       https://www.upwork.com/fl/jarroddavis
 
 twitter_username: ahylianhuman
 github_username:  jarrodldavis
 linkedin_username:  jarrodldavis
+additional_links:
+- title: Upwork
+  icon: fa fa-briefcase
+  url: https://www.upwork.com/fl/jarroddavis
 
 # Build settings
 markdown: kramdown
+kramdown:
+  auto_ids: false
+  parse_block_html: true
 remote_theme: sproogen/modern-resume-theme
 plugins:
   - jekyll-feed

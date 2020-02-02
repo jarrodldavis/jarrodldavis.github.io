@@ -1,3 +1,56 @@
+- company: Upwork
+  link: https://www.upwork.com/fl/jarroddavis
+  job_title: Freelance Software Engineer
+  dates: November 2019 - Present
+  quote: >
+    Web development, software engineering, and scripting/automation projects
+  responsibilities:
+  - Identified and implemented solutions to resolve issues with an open source
+    Jekyll site
+  - Configured a reference full stack GraphQL project using React.js, Next.js,
+    Auth0, Apollo, and Hasura
+  - Developed a Python script to collect information from git repository
+    commits into a CSV file for analysis
+  - Investigated and fixed an issue with a Node.js script that uses Puppeteer
+    to scrape data from a web page
+  - Created a Node.js script that uses the Screenshot Monitor and Jira Cloud
+    APIs to generate an Excel report
+  - Created an AWS Lambda function to receive webhooks and interact with an
+    external REST API
+  - Performed various administrative and data entry tasks
+  technologies:
+    Core Languages:
+    - HTML and CSS
+    - JavaScript and TypeScript
+    - Ruby
+    - Python
+    - Liquid (HTML templates)
+    Development Tools:
+    - git (version control)
+    - Visual Studio Code
+    - GitHub
+    - Docker and Docker Compose
+    - webpack
+    - AWS SAM (Serverless Application Model)
+    - AWS SAM CLI
+    - AWS CloudFormation Templates
+    Frameworks and Libraries:
+    - Jekyll (static site generator)
+    - React.js
+    - Next.js (React framework)
+    - Apollo (GraphQL Client)
+    - openpyxl (Excel library)
+    - exceljs and SheetJS (Excel libraries)
+    - Puppeteer
+    - jQuery
+    - Middy.js (AWS Lambda framework)
+    Platforms:
+    - Node.js (JavaScript runtime)
+    - Hasura (GraphQL Server)
+    - Auth0 (authentication service)
+    - AWS (Amazon Web Services)
+    - AWS Lambda Functions
+
 - company: Axxess Technology Solutions
   link: https://axxess.com
   jobs:
@@ -7,41 +60,39 @@
       dates: March 2015 - July 2016
   quote: >
     HomeCare SaaS product for home care and private duty agencies
-  description: |
-    ##### Responsiblities
-    - Fix bugs in and make enhancements to the full stack (frontend, backend,
-      and database schema/queries)
-    - Introduce new features into an existing enterprise-level codebase
-    - Participate in peer code reviews and quality assurance (QA) testing
-    - Assist in the optimization of engineering workflows to improve
-      development efficiency, including customization of MSBuild project files
-    - Define and distribute a Docker Compose project for the backend’s data
-      service dependencies (including database and cache servers) for a
-      consistent and always-available local development environment that is
-      less reliant on shared development servers
-    - Spearhead introduction of new technologies for major new features
-    - Coordinate with mobile engineers to design and develop a new API for
-      retrieving and updating existing application data critical to the rollout
-      of a new mobile application
-    - Transition to the technical team lead role and participate with
-      project/product management in the refinement and prioritization of bug
-      fixes, enhancements, and major features
-    - Manage deployments for multiple environments (including Production)
-      continuous integration builds (using TeamCity), application deployments
-      (using Octopus Deploy), and database updates
-    - Integrate the product with multiple systems, both internal and external
-      to the company
-    - Onboard and mentor new and existing team members
-    - Write documentation for project setup (onboarding) and development
-      methodologies (version control strategies and deployment workflows)
+  responsibilities:
+  - Maintained a full stack ASP.NET MVC 5 and JavaScript/jQuery web application
+  - Introduced features into an existing complex codebase across the frontend,
+    backend, and database
+  - Participated in peer code reviews and quality assurance (QA) testing
+  - Increased development efficiency through optimization of engineering
+    workflows
+  - Defined and distributed a Docker Compose project for the backend’s data
+    services for a consistent and always-available local development
+    environment
+  - Initiated the introduction of new technologies (including Vue.js) for major
+    new features
+  - Designed and developed a new ASP.NET Core API for retrieving and updating
+    application data in coordination with mobile app engineers
+  - Transitioned to the technical team lead role
+  - Participated with project and product management in the refinement and
+    prioritization of bug fixes, enhancements, and features
+  - Managed deployments for multiple environments using TeamCity and Octopus
+    Deploy
+  - Integrated the product with multiple systems internal and external to the
+    company
+  - Onboarded and mentored new and existing team members
+  - Wrote documentation for project setup, version control strategies, and
+    deployment workflows
 
-    ##### Core Languages
+  technologies:
+    Core Languages:
     - C#
     - HTML and CSS
     - JavaScript
     - SQL (MySQL)
 
-    ##### Development Tools
+    Development Tools:
     - git (version control)
     - Visual Studio 2013 and 2017
     - ReSharper
@@ -53,7 +104,7 @@
     - Babel (modern JavaScript transpiler)
     - Sass (CSS preprocessor)
 
-    ##### Frameworks and Libraries
+    Frameworks and Libraries:
     - .NET Framework
     - ASP.NET MVC 5
     - WCF (Windows Communication Foundation)
@@ -66,23 +117,23 @@
     - Knockout.js
     - Vue.js
 
-    ##### Additional Technologies
+    Additional Technologies:
     - MongoDB
     - RabbitMQ
     - Couchbase
-    - Redis 
+    - Redis
 
-- company: AtTask/Workfront
+- company: Workfront
   link: https://www.workfront.com
   job_title: Frontend Developer Intern
   dates: January 2015 - March 2015
   quote: >
     Internal tool for developers
-  description: |
-    ##### Responsibilities
-    - Details about this project are not available due to an NDA
+  responsibilities:
+  - Develop an internal tool used by developers
 
-    ##### Technologies
+  technologies:
+    Technologies:
     - Python
     - HTML and CSS
     - JavaScript
@@ -93,21 +144,23 @@
     - Django
     - Angular.js
 
-- company: Allegiance/MaritzCX
+- company: MaritzCX
   link: https://www.maritzcx.com
   job_title: Developer Intern (UI/UX Team)
   dates: September 2014 - December 2014
   quote: >
     Multiple customer-facing web-based services for VoC (Voice of Customer) and
     EFM (Enterprise Feedback Management)
-  description: |
-    ##### Responsibilites
-    - Assist in the selection of the CSS preprocessor to include in an existing development environment
-    - Integrate the Stylus CSS preprocessor into the existing build system
-    - Improve functionality and fix bugs of several JavaScript UI components
-    - Create new jQuery UI widgets, including compositions of other jQuery UI widgets
+  responsibilities:
+  - Assisted in the selection of the CSS preprocessor to include in an existing
+    development environment
+  - Integrated the Stylus CSS preprocessor into the existing build system
+  - Investigated and fixed bugs of several JavaScript UI components
+  - Utilized jQuery UI to create new widgets, including compositions of other
+    widgets
 
-    ##### Technologies
+  technologies:
+    Technologies:
     - HTML and CSS
     - JavaScript
     - Perforce (version control)

@@ -1,4 +1,5 @@
 - name: Neumont College of Computer Science
+  link: https://neumont.edu
   dates: 2012 - 2015
   qualification: Bachelor of Science in Web Design and Development
   description: |
@@ -6,7 +7,8 @@
     hands-on learning with a variety of technologies to team-based projects,
     both on-campus and embedded within real-world companies.
 
-    ##### Core Languages
+  technologies:
+    Core Languages:
     - Java
     - C#
     - HTML and CSS
@@ -14,14 +16,14 @@
     - Ruby
     - ActionScript
 
-    ##### Methodologies and Design Patterns
+    Methodologies and Design Patterns:
     - OOP (Object-Oriented Programming)
     - ReST (Representational State Transfer)
     - MVC (Model-View-Controller) pattern and Separation of Concerns
     - DI (Dependency Injection) and IoC (Inversion of Control)
     - Agile methodologies (including Scrum)
 
-    ##### Development Tools
+    Development Tools:
     - Unix-style command line (CLI)
     - Visual Studio 2012
     - Visual Studio 2013
@@ -32,24 +34,24 @@
     - Gulp.js
     - Adobe Flash
 
-    ##### Backend Web Frameworks
+    Backend Web Frameworks:
     - ASP.NET MVC 4
     - J2EE (Java 2, Enterprise Edition)
     - TomEE (Tomcat for Java EE)
     - Express.js
     - Ruby on Rails
 
-    ##### Frontend Web Frameworks
+    Frontend Web Frameworks:
     - Angular.js
     - Ember.js
 
-    ##### Frontend Libraries
+    Frontend Libraries:
     - jQuery
     - Bootstrap
     - Box2D
     - CreateJS
 
-    ##### Additional Technologies
+    Additional Technologies:
     - node.js
     - Microsoft SQL Server
     - MongoDB
