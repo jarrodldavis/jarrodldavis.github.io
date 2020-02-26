@@ -31,7 +31,7 @@ social:
     - https://github.com/jarrodldavis
     - https://www.linkedin.com/in/jarrodldavis
     - https://www.twitter.com/ahylianhuman
-    - https://www.upwork.com/fl/jarroddavis
+    - https://www.upwork.com/fl/jarrodldavis
 
 # Modern Resume Theme
 about_profile_image: assets/me.jpg
@@ -84,7 +84,7 @@ about_content: |
   [ruby]:         https://www.ruby-lang.org
   [python]:       https://python.org
   [resume]:       /jarrod-davis-resume.pdf
-  [upwork]:       https://www.upwork.com/fl/jarroddavis
+  [upwork]:       https://www.upwork.com/fl/jarrodldavis
 
 twitter_username: ahylianhuman
 github_username:  jarrodldavis
@@ -92,7 +92,7 @@ linkedin_username:  jarrodldavis
 additional_links:
 - title: Upwork
   icon: fa fa-briefcase
-  url: https://www.upwork.com/fl/jarroddavis
+  url: https://www.upwork.com/fl/jarrodldavis
 
 # Build settings
 markdown: kramdown
