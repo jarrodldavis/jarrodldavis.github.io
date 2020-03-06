@@ -13,10 +13,18 @@
     commits into a CSV file for analysis
   - Investigated and fixed an issue with a Node.js script that uses Puppeteer
     to scrape data from a web page
+  - Refactored that Node.js script to use the Jira Cloud REST APIs to generate
+    CSV reports and upload them to Confluence Spaces
   - Created a Node.js script that uses the Screenshot Monitor and Jira Cloud
-    APIs to generate an Excel report
+    REST APIs to generate Excel reports and upload them to Confluence Spaces
   - Created an AWS Lambda function to receive webhooks and interact with an
     external REST API
+  - Created a utility to automate system configuration management for Windows
+    10 machines
+  - Updated a Java (Selenium and Azure Service Bus) app to run in Docker for
+    usage in Azure Container Registry
+  - Developed a Chrome extension to provide keyboard shortcuts for changing the
+    active font color in Gmail's compose editor
   - Performed various administrative and data entry tasks
   technologies:
     Core Languages:
@@ -25,6 +33,7 @@
     - Ruby
     - Python
     - Liquid (HTML templates)
+    - Java
     Development Tools:
     - git (version control)
     - Visual Studio Code
@@ -34,6 +43,7 @@
     - AWS SAM (Serverless Application Model)
     - AWS SAM CLI
     - AWS CloudFormation Templates
+    - Windows PowerShell
     Frameworks and Libraries:
     - Jekyll (static site generator)
     - React.js
@@ -44,12 +54,23 @@
     - Puppeteer
     - jQuery
     - Middy.js (AWS Lambda framework)
+    - PowerShell Desired State Configuration
+    - Selenium
     Platforms:
     - Node.js (JavaScript runtime)
     - Hasura (GraphQL Server)
     - Auth0 (authentication service)
     - AWS (Amazon Web Services)
     - AWS Lambda Functions
+    - Azure Service Bus
+    - Azure Container Registry
+    - Chrome (browser extension platform)
+    Web APIs:
+    - Kreezalid REST API (v1)
+    - Kreezalid Webhooks
+    - Jira Cloud Platform REST API (v3)
+    - Confluence Cloud REST API (v1)
+    - Screenshot Monitor REST API (v2)
 
 - company: Axxess Technology Solutions
   link: https://axxess.com
