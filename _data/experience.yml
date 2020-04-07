@@ -25,6 +25,7 @@
     usage in Azure Container Registry
   - Developed a Chrome extension to provide keyboard shortcuts for changing the
     active font color in Gmail's compose editor
+  - Configured a boilerplate Craft CMS project in Docker using Docker Compose
   - Performed various administrative and data entry tasks
   technologies:
     Core Languages:
@@ -151,7 +152,7 @@
   quote: >
     Internal tool for developers
   responsibilities:
-  - Develop an internal tool used by developers
+  - Developed an internal tool used by developers
 
   technologies:
     Technologies:

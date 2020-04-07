@@ -37,11 +37,9 @@ social:
 about_profile_image: assets/me.jpg
 about_content: |
   Hey! I'm Jarrod Davis, a full stack developer and software engineer who
-  enjoys building delightful experiences and helpful tools.
-
-  I've worked with numerous languages, frameworks, and libraries, with a
-  significant focus on web applications (frontend and backend) but also
-  including command-line scripts and utilities.
+  enjoys building delightful experiences and helpful tools. I've worked with
+  numerous languages, frameworks, and libraries, with a significant focus on
+  command-line utilities and web applications (frontend and backend).
 
   Here's a sampling of the technologies I've worked with:
 
@@ -50,7 +48,8 @@ about_content: |
   - The modern Microsoft web stack ([C#][csharp], [.NET Core][dotnet-core],
     [ASP.NET Core][aspnet-core], [Entity Framework Core][ef-core])
   - [Node.js][nodejs] as a web application backend (including
-    [Express.js][expressjs] and [Next.js][nextjs])
+    [Express.js][expressjs] and [Next.js][nextjs]) and serverless function
+    runtime
   - Component-based JavaScript frameworks (including [Vue.js][vuejs],
     [Angular][angular], and [React.js][reactjs])
   - Modern frontend build setups ([Babel][babeljs] and [webpack])
