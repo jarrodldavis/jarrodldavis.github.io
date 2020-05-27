@@ -93,6 +93,8 @@ additional_links:
   icon: fa fa-briefcase
   url: https://www.upwork.com/fl/jarrodldavis
 
+darkmode: false # respect device preferences
+
 # Build settings
 markdown: kramdown
 kramdown:

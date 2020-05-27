@@ -3,7 +3,7 @@
   job_title: Freelance Software Engineer
   dates: November 2019 - Present
   quote: >
-    Web development, software engineering, and scripting/automation projects
+    Various web development, software engineering, and scripting/automation projects
   responsibilities:
   - Identified and implemented solutions to resolve issues with an open source
     Jekyll site
@@ -17,8 +17,8 @@
     CSV reports and upload them to Confluence Spaces
   - Created a Node.js script that uses the Screenshot Monitor and Jira Cloud
     REST APIs to generate Excel reports and upload them to Confluence Spaces
-  - Created an AWS Lambda function to receive webhooks and interact with an
-    external REST API
+  - Developed AWS Lambda functions to receive webhooks, process data, and
+    interact with Step Functions (for queuing/retry) and external REST APIs
   - Created a utility to automate system configuration management for Windows
     10 machines
   - Updated a Java (Selenium and Azure Service Bus) app to run in Docker for
@@ -26,6 +26,14 @@
   - Developed a Chrome extension to provide keyboard shortcuts for changing the
     active font color in Gmail's compose editor
   - Configured a boilerplate Craft CMS project in Docker using Docker Compose
+  - Created a Cloudflare Worker using HTMLRewriter to manipulate text, anchor
+    links, and images on-the-fly for a satirical news site
+  - Investigated issues with server-side rendering deployment of a Firebase and
+    Sapper site and provided guidance on alternative deployment strategies
+  - Developed a script to convert Shopify blog entries to Markdown for a new
+    Jekyll site
+  - Created a custom Plex Media Server plugin/agent to match TV Show and Movie
+    media to metadata from the MyDramaList.com API
   - Performed various administrative and data entry tasks
   technologies:
     Core Languages:
@@ -39,8 +47,13 @@
     - git (version control)
     - Visual Studio Code
     - GitHub
+    - Bitbucket
+    - GitLab
     - Docker and Docker Compose
     - webpack
+    - Cloudflare Wrangler
+    - Prettier
+    - Gulp
     - AWS SAM (Serverless Application Model)
     - AWS SAM CLI
     - AWS CloudFormation Templates
@@ -49,12 +62,15 @@
     - Jekyll (static site generator)
     - React.js
     - Next.js (React framework)
+    - Svelte and Sapper
+    - Middy.js (AWS Lambda framework)
     - Apollo (GraphQL Client)
     - openpyxl (Excel library)
     - exceljs and SheetJS (Excel libraries)
     - Puppeteer
     - jQuery
-    - Middy.js (AWS Lambda framework)
+    - Axios
+    - unified.js (vfile, mdast/remark, and hast/rehype)
     - PowerShell Desired State Configuration
     - Selenium
     Platforms:
@@ -63,15 +79,21 @@
     - Auth0 (authentication service)
     - AWS (Amazon Web Services)
     - AWS Lambda Functions
+    - AWS Step Functions
     - Azure Service Bus
     - Azure Container Registry
+    - Cloudflare Workers
     - Chrome (browser extension platform)
+    - Firebase (authentication, among services)
+    - Plex Media Server (plugin/agent runtime and APIs)
     Web APIs:
     - Kreezalid REST API (v1)
     - Kreezalid Webhooks
     - Jira Cloud Platform REST API (v3)
     - Confluence Cloud REST API (v1)
     - Screenshot Monitor REST API (v2)
+    - Shopify Storefront API
+    - MyDramaList.com API
 
 - company: Axxess Technology Solutions
   link: https://axxess.com
@@ -87,7 +109,7 @@
   - Introduced features into an existing complex codebase across the frontend,
     backend, and database
   - Participated in peer code reviews and quality assurance (QA) testing
-  - Increased development efficiency through optimization of engineering
+  - Increased development efficiency through optimizations of engineering
     workflows
   - Defined and distributed a Docker Compose project for the backend’s data
     services for a consistent and always-available local development
