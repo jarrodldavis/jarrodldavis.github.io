@@ -15,3 +15,11 @@ h5 {
   font-style: normal;
   color: #477dca
 }
+
+a {
+  text-decoration: underline;
+}
+
+a:hover, .layout .details a:hover {
+  color: #3368b4;
+}
