@@ -1,5 +1,5 @@
 // For format details, see https://aka.ms/vscode-remote/devcontainer.json or this file's README at:
-// https://github.com/microsoft/vscode-dev-containers/tree/v0.101.1/containers/jekyll
+// https://github.com/microsoft/vscode-dev-containers/tree/v0.122.1/containers/jekyll
 {
 	"name": "Jekyll",
 	"dockerFile": "Dockerfile",
@@ -21,6 +21,6 @@
 	"postCreateCommand": "bundle install",
 
 	// Uncomment to connect as a non-root user. See https://aka.ms/vscode-remote/containers/non-root.
-	"remoteUser": "vscode"
+	// "remoteUser": "vscode"
 
 }
