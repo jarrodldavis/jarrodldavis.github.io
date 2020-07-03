@@ -84,7 +84,7 @@
     - Azure Container Registry
     - Cloudflare Workers
     - Chrome (browser extension platform)
-    - Firebase (authentication, among services)
+    - Firebase (authentication, among other services)
     - Plex Media Server (plugin/agent runtime and APIs)
     Web APIs:
     - Kreezalid REST API (v1)
