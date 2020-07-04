@@ -50,6 +50,8 @@ about_content: |
   - [Node.js][nodejs] as a web application backend (including
     [Express.js][expressjs] and [Next.js][nextjs]) and serverless function
     runtime
+  - [Phoenix Framework][phoenix] on [Elixir][elixir] for full stack web
+    applications
   - Component-based JavaScript frameworks (including [Vue.js][vuejs],
     [Angular][angular], and [React.js][reactjs])
   - Modern frontend build setups ([Babel][babeljs] and [webpack])
@@ -71,6 +73,8 @@ about_content: |
   [nodejs]:       https://nodejs.org
   [expressjs]:    https://expressjs.com
   [nextjs]:       https://nextjs.com
+  [elixir]:       https://elixir-lang.org
+  [phoenix]:      https://phoenixframework.org
   [vuejs]:        https://vuejs.org
   [reactjs]:      https://reactjs.org
   [angular]:      https://angular.io
