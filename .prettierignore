@@ -1,0 +1,9 @@
+.next
+node_modules
+public
+.eslintignore
+.gitignore
+.prettierignore
+package.json
+yarn.lock
+next.config.js

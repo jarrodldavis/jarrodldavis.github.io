@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Next.js" type="NodeJSConfigurationType" application-parameters="dev" path-to-js-file="node_modules/.bin/next" working-dir="$PROJECT_DIR$">
+    <EXTENSION ID="com.jetbrains.nodejs.run.NodeJSStartBrowserRunConfigurationExtension">
+      <browser start="true" with-js-debugger="true" url="http://localhost:3000" />
+    </EXTENSION>
+    <method v="2" />
+  </configuration>
+</component>
