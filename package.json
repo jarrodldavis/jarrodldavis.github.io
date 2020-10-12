@@ -10,7 +10,8 @@
     "lint:format": "prettier --check .",
     "lint:ts": "tsc --noEmit",
     "lint:es": "eslint .",
-    "lint:style": "stylelint '**/*.css'"
+    "lint:style": "stylelint '**/*.css'",
+    "vercel-build": "run-s -cns lint:* build"
   },
   "dependencies": {
     "next": "9.5.5",
